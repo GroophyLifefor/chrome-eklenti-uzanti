@@ -1,0 +1,14 @@
+{
+
+	"name": "eklenti ismi",
+	"description": "açıklama",
+	"version": "1.0",
+	"manifest_version": 2,
+	"browser_action":{
+		"default_title": "başlık",
+		"default_icon": "iconun ismi ve türü örneğin  blabla.png",
+		"default_popup": "index.html"
+		},
+
+		"icons": {"px sayısı": "iconun ismi"}
+}
