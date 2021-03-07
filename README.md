@@ -2,4 +2,7 @@
 uzantı yada eklenti nin temelini içerir
 
 # nasıl kendi eklentimi yaparım
-bu [linke](chrome://extensions/) git
+1) chrome://extensions/     bu linke git
+2) geliştirici modunu aç
+3) EKLENTİ klasörünü siteye sürükle
+4) bitti.
